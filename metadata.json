@@ -1,0 +1,6 @@
+{
+  "name": "KhaasBazaar Pakistan - Online Store & Admin",
+  "description": "Premium Pakistani e-commerce marketplace featuring authentic apparel, footwear, sports gear, Cash on Delivery, JazzCash, Easypaisa, and nationwide order tracking across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
